@@ -20,3 +20,4 @@ do-droplet_terraform/terraform.tfvars
 .terraform
 docluster_terraform
 docluster_terraform/main.tf
+docluster_terraform/main.tf
