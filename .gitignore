@@ -15,6 +15,6 @@ build/*
 _site/
 *.css
 !petclinic.css
-terraform.tfvars
+do-droplet_terraform/terraform.tfvars
 .terraform.lock.hcl
 .terraform
