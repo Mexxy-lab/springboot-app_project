@@ -18,3 +18,5 @@ _site/
 do-droplet_terraform/terraform.tfvars
 .terraform.lock.hcl
 .terraform
+docluster_terraform
+docluster_terraform/main.tf

@@ -34,5 +34,5 @@ resource "digitalocean_kubernetes_cluster" "doks" {
 variable "do_token" {
   type        = string
   description = "Your Digital Ocean Api Token"
-  default     = "dop_v1_e00c74b01fe549213224b52bf11af47d532ebce343724d3f30d29011f16e32ef"
+  default     = "dop_v1_cce38f613e4b6f4853c0c5c941e965174caad44d4a993cf48967521271a4430d"
 }
